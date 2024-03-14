@@ -13,3 +13,32 @@ TrustWave KYC (Know Your Customer) is an innovative application designed to stre
 ## Demo Video
 
 [Watch the demo video](https://drive.google.com/file/d/12X4UnaXp_D2ED36sU0UD9Y_CdGusmSHK/view?usp=drive_link)
+
+## Screenshots
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_174704.jpg" alt="Screenshot 1" style="width: 50%;">
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_174728.jpg" alt="Screenshot 2" style="width: 50%;">
+    </div>
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_174901.jpg" alt="Screenshot 3" style="width: 50%;">
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_174943.jpg" alt="Screenshot 4" style="width: 50%;">
+    </div>
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_175017.jpg" alt="Screenshot 5" style="width: 50%;">
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/ItzNilay/TrustWave-KYC/blob/main/Screenshots/Screenshot_20240314_175020.jpg" alt="Screenshot 6" style="width: 50%;">
+    </div>
+</div>
