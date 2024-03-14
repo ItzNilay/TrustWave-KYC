@@ -1,13 +1,3 @@
-<div align="center">
- 
- [![Static Badge](https://img.shields.io/badge/Matches_for-COLMAP-red)](https://github.com/colmap/colmap)
- ![Static Badge](https://img.shields.io/badge/Matches_for-Metashape-blue) [![Static Badge](https://img.shields.io/badge/Powered_by-Kornia-green)](https://github.com/kornia/kornia) [![Static Badge](https://img.shields.io/badge/Powered_by-hloc-blue)](https://github.com/kornia/kornia)
- 
-  [![GitHub Release](https://img.shields.io/github/v/release/3DOM-FBK/deep-image-matching)](https://github.com/3DOM-FBK/deep-image-matching/releases) [![Static Badge](https://img.shields.io/badge/docs-DeepImageMatching-blue
- )](https://3dom-fbk.github.io/deep-image-matching/)
- 
-</div>
-
 # DEEP-IMAGE-MATCHING
 
 | SIFT                                             | DISK                                               | IMAGES ORIENTATION                                   | DENSE WITH ROMA                                |
@@ -21,7 +11,6 @@
 
 Multivew matcher for SfM software. Support both deep-learning based and hand-crafted local features and matchers and export keypoints and matches directly in a COLMAP database or to Agisoft Metashape by importing the reconstruction in Bundler format. It supports both CLI and GUI. Feel free to collaborate!
 
-Check the documentation at <a href="https://3dom-fbk.github.io/deep-image-matching/">Docs</a>.
 If you want the most recent features, you should check and use the `dev` branch.
 
 **Please, note that `deep-image-matching` is under active development** and it is still in an experimental stage. If you find any bug, please open an issue.
@@ -56,12 +45,6 @@ Key features:
 | &check; Agisoft Metashape                     |
 | &check; Software that supports bundler format |
 
-## Colab demo 
-
-Want to run on a sample dataset? ➡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3DOM-FBK/deep-image-matching/blob/master/notebooks/colab_run_from_bash_example.ipynb)
-
-Want to run on your images? ➡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3DOM-FBK/deep-image-matching/blob/master/notebooks/colab_run_from_bash_custom_images.ipynb)
-
 ## Installation
 
 For installing deep-image-matching, first create a conda environment:
@@ -89,7 +72,6 @@ pip install pycolmap
 As [pycolmap](https://github.com/colmap/pycolmap) was released on PyPi only for Linux and macOS (up to version 0.4.0), it is not installed by default with deep-image-matching. 
 From version 0.5.0, pycolmap can be installed on Windows too. However, it needs some testing before including in dependencies of deep-image-matching, as there are some errors on Windows that are blocking deep_image_matching pipeline (while it works completely fine on Linux).
 
-For more information, check the [documentation](https://3dom-fbk.github.io/deep-image-matching/installation/).
 
 ## Usage instructions
 
@@ -196,6 +178,3 @@ If you find the repository useful for your work consider citing the papers:
   year={2023},
   publisher={Copernicus GmbH}
 }
-```
-
-Depending on the options used, consider citing the corresponding work of [KORNIA](https://github.com/kornia/kornia), [HLOC](https://github.com/cvg/Hierarchical-Localization), and local features.
