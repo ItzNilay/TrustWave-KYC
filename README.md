@@ -2,7 +2,7 @@
 
 TrustWave KYC (Know Your Customer) is an innovative application designed to streamline identity verification processes for government documents. This comprehensive solution integrates advanced technologies including text recognition, face recognition, and QR code scanning to enhance the efficiency and accuracy of identity verification.
 
-### Key Features:
+### Key Features: (Included in Backend, to be integrated with the frontend working prototype)
 
 - **Text Recognition:** TrustWave KYC utilizes powerful text recognition algorithms to extract relevant information from government documents such as passports, driver's licenses, and IDs. This enables quick and accurate data entry, minimizing manual errors and increasing efficiency.
 
