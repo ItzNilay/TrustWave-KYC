@@ -1,0 +1,2 @@
+- [ ] add steerers with DeDoDe
+- [ ] open issue on pydegensac for pairs with many tie points (>10000). Quite random results with LoFTR and RoMa
