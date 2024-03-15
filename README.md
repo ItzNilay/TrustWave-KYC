@@ -14,7 +14,7 @@ The Frontend folder includes the files to be downloaded and can be used as an 'a
 
 ## Demo Video
 
-https://github.com/ItzNilay/TrustWave-KYC/assets/97908176/16a7c60e-6b6d-4d01-9ec1-6302e4121e43
+https://github.com/ItzNilay/TrustWave-KYC/assets/97908176/bdb27776-f7b0-4868-94a1-cb4488f2e683
 
 ## Screenshots
 
